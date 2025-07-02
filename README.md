@@ -11,8 +11,10 @@ Weather Claude is a Python-based application designed to interact with the Natio
 ## Installation
 1. Ensure Python 3.13 or higher is installed.
 2. Clone the repository:
-   <v-code-fenced-content uri="urn:uuid:d072fe78-0d34-4afd-bb0b-e6baee59d341"></v-code-fenced-content>3. Install dependencies:
+   <v-code-fenced-content uri="urn:uuid:d072fe78-0d34-4afd-bb0b-e6baee59d341"></v-code-fenced-content>
+3. Install dependencies:
    <v-code-fenced-content uri="urn:uuid:1bcd89a2-c3b5-4ec4-bf2c-7ae29184e0cc"></v-code-fenced-content>
+4. https://modelcontextprotocol.io/quickstart/server#macos%2Flinux
 
 ## Usage
 ### Get Weather Alerts
